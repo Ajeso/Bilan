@@ -51,6 +51,14 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Bilan: a plain-language website health check</title>
+	<meta
+		name="description"
+		content="Bilan checks your website's speed, accessibility and SEO, then explains what to fix in plain language. Paste a link and get your results in seconds."
+	/>
+</svelte:head>
+
 <header class="topbar">
 	<span class="logo">Bilan</span>
 </header>
